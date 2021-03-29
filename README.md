@@ -1,4 +1,4 @@
-# oowlish
+# OOWLISH-Task
  Django REST API that provides information about customers.
 
 ## Project Setup
@@ -9,7 +9,7 @@
 ```console
 $ pip install -r requirements.txt --user
 ```
-**Management command : Create two extra fields for latitude and longitude using Google Maps API **
+**Management command : Create two extra fields for latitude and longitude using Google Maps API**
 
 ```console
 $ python manage.py Google_Maps_API
@@ -21,7 +21,7 @@ $ python manage.py Database
 ```
 
 
-**Update the database **
+**Update the database**
 
 ```console
 $ python manage.py migrate
