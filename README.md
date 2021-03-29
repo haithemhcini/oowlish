@@ -32,9 +32,16 @@ $ python manage.py migrate
 ```console
 $ python manage.py runserver
 ```
+
 ## Usage
 
 | HTTP verbs | Paths  | Used for |
 | ---------- | ------ | --------:|
 | GET | api/customers/|List all customers|
 | GET | api/customers/id | Show a single customer |
+
+**Simple web page to consume the REST API**
+
+```console
+http://127.0.0.1:8000/swagger/
+```
