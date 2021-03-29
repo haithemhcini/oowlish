@@ -45,3 +45,9 @@ $ python manage.py runserver
 ```console
 http://127.0.0.1:8000/swagger/
 ```
+
+
+![image](https://user-images.githubusercontent.com/73910136/112832347-17dbc780-908d-11eb-823b-c5346bf56cc7.png)
+![image](https://user-images.githubusercontent.com/73910136/112832424-32ae3c00-908d-11eb-9e43-593cb8185b24.png)
+
+
